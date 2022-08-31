@@ -1,0 +1,15 @@
+C:\Users\Домашний\Desktop\seminar4\startask\bin\Debug\net6.0\startask.exe
+C:\Users\Домашний\Desktop\seminar4\startask\bin\Debug\net6.0\startask.deps.json
+C:\Users\Домашний\Desktop\seminar4\startask\bin\Debug\net6.0\startask.runtimeconfig.json
+C:\Users\Домашний\Desktop\seminar4\startask\bin\Debug\net6.0\startask.dll
+C:\Users\Домашний\Desktop\seminar4\startask\bin\Debug\net6.0\startask.pdb
+C:\Users\Домашний\Desktop\seminar4\startask\obj\Debug\net6.0\startask.csproj.AssemblyReference.cache
+C:\Users\Домашний\Desktop\seminar4\startask\obj\Debug\net6.0\startask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Домашний\Desktop\seminar4\startask\obj\Debug\net6.0\startask.AssemblyInfoInputs.cache
+C:\Users\Домашний\Desktop\seminar4\startask\obj\Debug\net6.0\startask.AssemblyInfo.cs
+C:\Users\Домашний\Desktop\seminar4\startask\obj\Debug\net6.0\startask.csproj.CoreCompileInputs.cache
+C:\Users\Домашний\Desktop\seminar4\startask\obj\Debug\net6.0\startask.dll
+C:\Users\Домашний\Desktop\seminar4\startask\obj\Debug\net6.0\refint\startask.dll
+C:\Users\Домашний\Desktop\seminar4\startask\obj\Debug\net6.0\startask.pdb
+C:\Users\Домашний\Desktop\seminar4\startask\obj\Debug\net6.0\startask.genruntimeconfig.cache
+C:\Users\Домашний\Desktop\seminar4\startask\obj\Debug\net6.0\ref\startask.dll
